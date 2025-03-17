@@ -9,7 +9,7 @@ import java.util.ArrayList; // Arraylists are used.
 import java.util.Scanner; // Imported in order to take a file as input.
 import java.awt.Font; // Changed the font to set the size of city names so that they do not overlap.
 
-public class AhmetEminBilen {
+public class TurkeyNavigation {
     public static void main(String[] args) throws FileNotFoundException {
         // First makes sure that relevant file exists in the directory.:
         File coordinatesFile = new File("city_coordinates.txt");
